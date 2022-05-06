@@ -1,0 +1,933 @@
+.checkscreen{
+    /* check */
+
+
+position: relative;
+width: 1440px;
+height: 1px;
+
+background: #131415;
+}
+.webvideo{
+    /* Group 17 */
+
+
+position: absolute;
+width: 593.96px;
+height: 595px;
+left: 90px;
+top: 241px;
+}
+.videocss{
+  /* FGaknWvNbBk */
+
+
+position: absolute;
+width: 593.96px;
+height: 595px;
+left: 90px;
+top: 241px;
+}
+.datee{
+    /* 17th Dec 2020 */
+
+
+position: static;
+width: 171px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+text-align: right;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 1px 0px;
+}
+.frame33{
+ /* Frame 33 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1260px;
+height: 60px;
+left: 90px;
+top: 100px;
+}
+.frame32{
+ /* Frame 32 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+
+position: static;
+width: 171px;
+height: 60px;
+left: 1089px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 723px; */
+}
+.frametxt{
+    /* Graduate Record Examination */
+
+
+position: static;
+width: 607px;
+height: 60px;
+left: 39px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 25px;
+}
+.timee{
+    /* 9:00 am - 12:00 pm */
+
+
+position: static;
+width: 133px;
+height: 21px;
+left: 38px;
+top: 39px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: right;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 1px 0px;
+}
+.frame31{
+    /* Frame 31 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 646px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 723px; */
+}
+.text1{
+    /* Graduate Record Examination */
+
+
+position: static;
+width: 607px;
+height: 60px;
+left: 39px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 25px;
+}
+.startbutton{
+    /* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 40px;
+
+position: absolute;
+width: 178px;
+height: 51px;
+left: 712px;
+top: 685px;
+
+/* white */
+
+background: #FFFFFF;
+}
+.starttext{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+/* black */
+
+color: #131415;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.rightarroww{
+    /* Vector 8 */
+
+
+position: static;
+width: 14px;
+height: 27px;
+left: 0px;
+top: 16.5px;
+
+/* border: 4px solid #FFFFFF; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 25px;
+}
+.conditions{
+    /* conditions */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 335px;
+height: 483.94px;
+left: 687px;
+top: 109px;
+/* background-color: #FFFFFF; */
+}
+.frame34{
+    /* Frame 34 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 202px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.greentick1{
+    /* Vector 9 */
+
+
+position: static;
+width: 36px;
+height: 23px;
+left: 0px;
+top: 2px;
+
+/* green */
+
+/* border: 6px solid #A7F93F; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.checktext{
+    /* Environmetal Condition */
+
+
+position: static;
+width: 142px;
+height: 27px;
+left: 60px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.greentick2{
+    /* Vector 9 */
+
+
+position: static;
+width: 36px;
+height: 23px;
+left: 0px;
+top: 2px;
+
+/* green */
+
+/* border: 6px solid #A7F93F; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.checktext2{
+    /* Environmetal Condition */
+
+
+position: static;
+width: 98px;
+height: 27px;
+left: 60px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.frame35{
+    /* Frame 35 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 158px;
+height: 27px;
+left: 0px;
+top: 59px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 32px 0px; */
+}
+.wrongicon1{
+    /* Union */
+
+
+position: static;
+width: 35.79px;
+height: 35.47px;
+left: 0px;
+top: 0px;
+
+/* red */
+
+/* background: #FF5555; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.wrongicon2{
+    /* Union */
+
+
+position: static;
+width: 35.79px;
+height: 35.47px;
+left: 0px;
+top: 0px;
+
+/* red */
+
+/* background: #FF5555; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.frame36{
+    /* Frame 36 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 147.79px;
+height: 35.47px;
+left: 0px;
+top: 118px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.checktext3{
+    /* Environmetal Condition */
+
+
+position: static;
+width: 88px;
+height: 27px;
+left: 59.79px;
+top: 4.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.greentick3{
+    /* Vector 9 */
+
+
+position: static;
+width: 36px;
+height: 23px;
+left: 0px;
+top: 2px;
+
+/* green */
+
+/* border: 6px solid #A7F93F; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.frame37{
+/* Frame 37 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 325.79px;
+height: 35.47px;
+left: 0px;
+top: 185.47px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+/* margin: 32px 0px; */
+}.wrongicon2{
+    /* Union */
+
+
+position: static;
+width: 35.79px;
+height: 35.47px;
+left: 0px;
+top: 0px;
+
+/* red */
+
+/* background: #FF5555; */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.checktext4{
+    /* Environmetal Condition */
+
+
+position: static;
+width: 266px;
+height: 27px;
+left: 59.79px;
+top: 4.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.frame38{
+    /* Frame 38 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 335px;
+height: 27px;
+left: 0px;
+top: 252.94px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.checktext5{
+    /* Environmetal Condition */
+
+
+position: static;
+width: 275px;
+height: 27px;
+left: 60px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.frame39{
+/* Frame 39 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 173px;
+height: 36px;
+left: 0px;
+top: 311.94px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 5;
+flex-grow: 0;
+/* margin: 32px 0px; */
+}
+.frame40{
+    
+    /* Frame 40 */
+    
+    
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    
+    position: static;
+    width: 199px;
+    height: 36px;
+    left: 0px;
+    top: 379.94px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+    margin: 32px 0px;
+}
+.frame41{
+/* Frame 41 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 265px;
+height: 36px;
+left: 0px;
+top: 447.94px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 7;
+flex-grow: 0;
+/* margin: 32px 0px; */
+}
+.checktext6{
+/* Environmetal Condition */
+
+
+position: static;
+width: 113px;
+height: 27px;
+left: 60px;
+top: 4.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.checktext7{
+/* Environmetal Condition */
+
+
+position: static;
+width: 139px;
+height: 27px;
+left: 60px;
+top: 4.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.checktext8{
+/* Environmetal Condition */
+
+
+position: static;
+width: 205px;
+height: 27px;
+left: 60px;
+top: 4.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* margin: 0px 24px; */
+}
+.loading1{
+/* Subtract */
+
+
+position: static;
+width: 36px;
+height: 36px;
+left: 0px;
+top: 0px;
+
+/* white50% */
+
+/* background: rgba(255, 255, 255, 0.5); */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.loading2{
+/* Subtract */
+
+
+position: static;
+width: 36px;
+height: 36px;
+left: 0px;
+top: 0px;
+
+/* white50% */
+
+/* background: rgba(255, 255, 255, 0.5); */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.loading3{
+/* Subtract */
+
+
+position: static;
+width: 36px;
+height: 36px;
+left: 0px;
+top: 0px;
+
+/* white50% */
+
+/* background: rgba(255, 255, 255, 0.5); */
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+.subpic{
+  /* White Camera 1 3 */
+
+
+position: absolute;
+width: 300.1px;
+height: 168.22px;
+left: 207.34px;
+top: 391.57px;
+
+}

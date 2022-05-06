@@ -1,0 +1,913 @@
+.containerhome{
+    /* empty home */
+
+
+position: relative;
+width: 1440px;
+/* height: 1024px; */
+
+/* black */
+
+background: #131415;
+}
+.profile1{
+    /* profile */
+
+
+position: absolute;
+width: 207px;
+height: 61px;
+left: 1183px;
+top: 913px;
+}
+.id1{
+    /* 18BIS1241 */
+
+
+position: absolute;
+width: 85px;
+height: 30px;
+left: 45px;
+top: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: right;
+
+color: rgba(255, 255, 255, 0.5);
+}
+.name1{
+    /* Samuel Doe */
+
+
+position: absolute;
+width: 121px;
+height: 30px;
+left: 9px;
+top: 1px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.profileid{
+    /* Ellipse 1 */
+
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 146px;
+top: 0px;
+
+}
+.group18{
+    /* illustration no class */
+
+
+position: absolute;
+width: 494px;
+height: 314px;
+left: 424px;
+top: 291px;
+}
+.txt5{
+    /* You’re are yet to be added to a class, till then you can relax */
+
+
+position: absolute;
+width: 592px;
+height: 96px;
+left: 424px;
+top: 637px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+
+/* white50% */
+
+color: rgba(255, 255, 255, 0.5);
+}
+.headerr{
+    /* My Classes */
+
+
+position: absolute;
+width: 227px;
+height: 60px;
+left: 82px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+}
+.demotext{
+    /* Take Demo Exam */
+
+
+position: absolute;
+width: 172px;
+height: 30px;
+left: 82px;
+top: 922px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: right;
+text-decoration-line: underline;
+
+/* white */
+
+color: #FFFFFF;
+}
+.box11{
+    /* class - examinee */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 24px 30px;
+
+position: absolute;
+width: 1277px;
+height: 101px;
+left: 82px;
+top: 210px;
+
+/* black2 */
+
+background: #232527;
+box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.downn{
+    /* down */
+
+
+position: static;
+width: 32px;
+height: 32px;
+left: 1215px;
+top: 34.5px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 817px;
+}
+.vectordown{
+    /* Vector 19 */
+
+
+/* position: absolute; */
+left: 83.33%;
+right: -16.67%;
+top: 33.33%;
+bottom: 0%;
+
+/* white */
+
+/* border: 3.55556px solid #FFFFFF; */
+/* transform: matrix(0, 1, 1, 0, 0, 0); */
+}
+.subjectcontainer{
+ /* subject */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 344px;
+height: 53px;
+left: 30px;
+top: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+}
+.subject2{
+    /* subject */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 1217px;
+height: 53px;
+left: 30px;
+top: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.subsubject{
+    /* CSE3013 */
+
+
+position: static;
+width: 56px;
+height: 21px;
+left: 20px;
+top: 32px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* white50% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 2px 0px;
+}
+.subname{
+    /* Neural Networks and Fuzzy Control */
+
+
+position: static;
+width: 344px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+}
+.box13{
+    /* exam - examinee */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 16px 16px 20px;
+
+position: static;
+width: 1217px;
+height: 83px;
+left: 30px;
+top: 93px;
+
+/* black3 */
+
+background: #484C50;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.box14{
+/* exam - examinee */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 16px 16px 20px;
+
+position: static;
+width: 1217px;
+height: 83px;
+left: 30px;
+top: 192px;
+
+/* black3 */
+
+background: #484C50;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.box15{
+    /* exam - examinee */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 16px 16px 20px;
+
+position: static;
+width: 1217px;
+height: 83px;
+left: 30px;
+top: 291px;
+
+/* black3 */
+
+background: #484C50;
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.box12{
+    /* class - examinee */
+
+
+/* Auto layout */
+
+/* display: flex; */
+flex-direction: column;
+align-items: center;
+padding: 24px 30px;
+
+position: absolute;
+width: 1277px;
+height: 403px;
+left: 82px;
+top: 339px;
+
+/* black2 */
+
+background: #232527;
+box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.subjectcontainer2{
+  /* subject */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 1217px;
+height: 53px;
+left: 30px;
+top: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+/* margin: 16px 0px; */
+
+}
+.subjectcontainer3{
+  /* subject */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 239px;
+height: 53px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 834px; */
+}
+.subsubject2{
+    /* CSE3013 */
+
+
+position: static;
+width: 56px;
+height: 21px;
+left: 0px;
+top: 32px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* white50% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 2px 0px;
+}
+.subname2{
+ /* Neural Networks and Fuzzy Control */
+
+
+position: static;
+width: 239px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+}
+.subsuject2{
+    /* CSE3013 */
+
+
+position: static;
+width: 56px;
+height: 21px;
+left: 0px;
+top: 32px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* white50% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 2px 0px;
+}.up{
+   /* up */
+
+
+position: static;
+width: 32px;
+height: 32px;
+left: 1185px;
+top: 10.5px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 30px; 
+}
+.upicon{
+    /* Vector 19 */
+
+
+position: absolute;
+left: 83.33%;
+right: -16.67%;
+top: 66.67%;
+bottom: -33.33%;
+
+/* white */
+
+/* border: 3.55556px solid #FFFFFF; */
+}
+.yettostart{
+    /* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 40px;
+
+position: static;
+width: 179px;
+height: 51px;
+left: 1022px;
+top: 16px;
+
+/* white50% */
+
+background: rgba(255, 255, 255, 0.5);
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 247px;
+}
+.joinexam{
+    /* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 40px;
+
+position: static;
+width: 171px;
+height: 51px;
+left: 1028px;
+top: 16px;
+
+/* white */
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 259px;
+}
+.completed{
+    /* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 40px;
+
+position: static;
+width: 167px;
+height: 51px;
+left: 1018px;
+top: 16px;
+
+/* white50% */
+
+background: rgba(255, 255, 255, 0.5);
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 259px;
+}
+.buttontext{
+    /* Button */
+
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+/* black */
+
+color: #131415;
+
+
+/* Inside auto layout */
+
+
+}.testname{
+    /* CAT 1 */
+
+
+position: static;
+width: 76px;
+height: 30px;
+left: 20px;
+top: 26.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 259px; */
+margin-right: 150px;
+}.fromdate{
+    /* 22nd Dec 2021 */
+
+
+position: static;
+width: 147px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 74.5px; */
+margin-left: 88.5px;
+}
+.timeperiod{
+   /* 9:00 am - 12:00 pm */
+
+
+    position: static;
+    width: 190px;
+    height: 30px;
+    left: 189.67px;
+    top: 0px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    
+    /* white */
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    /* margin: 0px 74.5px; */
+    margin-right: 48.5px;
+}
+.ellipse2{
+    /* Ellipse 2 */
+
+
+position: static;
+width: 6px;
+height: 6px;
+left: 165.33px;
+top: 12px;
+
+/* white */
+
+background: #FFFFFF;
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 23.5px;
+}
+.bell1{
+/* Vector */
+
+
+position: absolute;
+left: 7.12%;
+right: 7.13%;
+top: 7.13%;
+bottom: 7.12%;
+
+/* white50% */
+
+/* background: rgba(255, 255, 255, 0.5); */
+}
+.bell{
+    /* Vector */
+
+
+position: absolute;
+left: 18.75%;
+right: 18.75%;
+top: 9.38%;
+bottom: 9.38%;
+
+/* white */
+
+/* background: #FFFFFF; */
+}
+.notification1{
+/* no bell */
+
+
+position: static;
+width: 30px;
+height: 22px;
+left: 398px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+/* margin: 0px 74.5px; */
+}
+.notification3{
+/* bell */
+
+
+position: static;
+width: 30px;
+height: 30px;
+left: 378px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+/* margin: 0px 74.5px; */
+}
+.datetime{
+    /* date-time */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 408px;
+height: 30px;
+left: 355px;
+top: 26.5px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+margin: 0px 57px;
+}

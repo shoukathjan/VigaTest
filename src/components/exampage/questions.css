@@ -1,0 +1,315 @@
+.frame1 {
+  /* Frame 1 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1018px;
+  top: 199px;
+
+  background: #ffffff;
+}
+.frame2 {
+  /* Frame 2 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1084px;
+  top: 199px;
+
+  background: #232527;
+}
+.frame3 {
+  /* Frame 3 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1150px;
+  top: 199px;
+
+  /* green */
+
+  background: #a7f93f;
+}
+.frame4 {
+  /* Frame 4 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1216px;
+  top: 199px;
+
+  /* red */
+
+  background: #ff5555;
+}
+.frame5 {
+  /* Frame 27 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1282px;
+  top: 199px;
+
+  /* red */
+
+  background: #ff5555;
+}
+.frame6 {
+  /* Frame 6 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1018px;
+  top: 256px;
+
+  background: #232527;
+}
+.frame7 {
+  /* Frame 7 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1084px;
+  top: 256px;
+
+  background: #232527;
+}
+.frame8 {
+  /* Frame 8 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1150px;
+  top: 256px;
+
+  background: #232527;
+}
+.frame9 {
+  /* Frame 9 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1216px;
+  top: 256px;
+
+  background: #232527;
+}
+.frame10 {
+  /* Frame 28 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1282px;
+  top: 256px;
+
+  background: #232527;
+}
+.frame11 {
+  /* Frame 11 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1018px;
+  top: 313px;
+
+  background: #232527;
+}
+.frame12 {
+  /* Frame 12 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1084px;
+  top: 313px;
+
+  background: #232527;
+}
+.frame13 {
+  /* Frame 13 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1150px;
+  top: 313px;
+
+  background: #232527;
+}
+.frame14 {
+  /* Frame 14 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1216px;
+  top: 313px;
+
+  background: #232527;
+}
+.frame15 {
+  /* Frame 29 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1282px;
+  top: 313px;
+
+  background: #232527;
+}
+.frame16 {
+  /* Frame 16 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 1018px;
+  top: 370px;
+
+  background: #232527;
+}
+.frame17{
+/* Frame 17 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1084px;
+top: 370px;
+
+background: #232527;
+}
+.frame18{
+/* Frame 18 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1150px;
+top: 370px;
+
+background: #232527;
+}
+.frame19{
+/* Frame 19 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1216px;
+top: 370px;
+
+background: #232527;
+}
+.frame20{
+/* Frame 30 */
+
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1282px;
+top: 370px;
+
+background: #232527;
+}
+.numb1 {
+  /* 1 */
+
+  position: absolute;
+  width: 7px;
+  height: 27px;
+  left: 12px;
+  top: 2px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #131415;
+}
+.numb1 {
+/* 1 */
+
+
+position: absolute;
+width: 7px;
+height: 27px;
+left: 12px;
+top: 2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #131415;
+}
+.numb6 {
+/* 1 */
+
+
+position: absolute;
+width: 7px;
+height: 27px;
+left: 12px;
+top: 2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.numb3 {
+    /* 1 */
+
+
+position: absolute;
+width: 7px;
+height: 27px;
+left: 12px;
+top: 2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #131415;
+}
+
+

@@ -1,0 +1,472 @@
+
+.vigacontainer{
+    /* spash */
+
+
+position: relative;
+width: 1440px;
+height: 1024px;
+margin:auto;
+background: #131415;
+}
+.input{
+  position: static;
+  width: 509px;
+  height: 18px;
+  left: 44px;
+  top: 12px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white50% */
+
+  color: rgba(255, 255, 255, 0.5);
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+  margin: 0px 8px;
+}
+.navbar{
+  /* header */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 10px 20px 10px 40px;
+
+position: absolute;
+width: 1440px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+/* black2 */
+
+background: #232527;
+box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.5);
+}
+.minimze{
+  /* minimize */
+
+
+position: static;
+width: 42px;
+height: 42px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+}
+.maximize{
+  /* minimize */
+
+
+position: static;
+width: 42px;
+height: 42px;
+left: 42px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+}
+.close{
+  /* close */
+
+
+position: static;
+width: 42px;
+height: 42px;
+left: 84px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 0px;
+}
+.logotxt{
+ /* Proctor Vision */
+
+
+position: static;
+width: 125px;
+height: 27px;
+left: 40px;
+top: 17.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/* margin: 0px 269px; */
+}
+
+
+
+.searchInput {
+  position: static;
+  width: 509px;
+  height: 38px;
+  left: 44px;
+  top: 12px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+
+  /* white50% */
+
+  color: rgba(255, 255, 255, 0.5);
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+  margin: 0px 8px;
+}
+
+.searchIcon {
+  font-size: 20px !important;
+  margin-left: 10px;
+}
+
+.searchInput {
+  border: none;
+  width: 70%;
+}
+
+.searchInput:focus {
+  outline: none;
+}
+
+.topbarRight {
+  flex: 4;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+
+.topbarLink {
+  margin-right: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.topbarIcons {
+  display: flex;
+}
+
+.topbarIconItem {
+  margin-right: 15px;
+  cursor: pointer;
+  position: relative;
+}
+
+.topbarIconBadge {
+  width: 15px;
+  height: 15px;
+  background-color: red;
+  border-radius: 50%;
+  color: white;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.topbarImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.card-img {
+    background-color: #131415;
+}
+.box{
+   /* log in box */
+
+
+position: absolute;
+width: 1114px;
+height: 634px;
+left: 163px;
+top: 195px;
+
+background: #232527;
+box-shadow: 7px 8px 52px rgba(0, 0, 0, 0.35);
+}
+.boxtext{
+    /* Welcome aboard to the future in the making you’ve just become a part of it */
+
+
+position: absolute;
+width: 733px;
+height: 216px;
+left: 72px;
+top: 264px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 72px;
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.grid{
+  /* Frame */
+
+
+position: absolute;
+width: 183px;
+height: 80px;
+left: 72px;
+top: 86px;
+
+}
+.imgproc{
+    /* Vector */
+
+
+position: absolute;
+left: 0%;
+right: 64.13%;
+top: 0%;
+bottom: 0%;
+
+background: #232527;
+}
+.gridtext{
+    /* Group */
+
+
+position: absolute;
+left: 40.84%;
+right: 0%;
+top: 30.12%;
+bottom: 0.89%;
+color: #ffffff;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 30px;
+
+}
+.button{
+/* button */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 28px 12px 40px;
+
+position: absolute;
+width: 207px;
+height: 60px;
+left: 222px;
+top: 723px;
+
+/* white */
+
+background: #FFFFFF;
+}
+.button1{
+ /* Button */
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+cursor:pointer;
+/* identical to box height */
+
+text-align: center;
+
+/* black */
+
+color: #131415;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.actions{
+    /* actions */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 126px;
+height: 42px;
+left: 1294px;
+top: 10px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+/* margin: 0px 269px; */
+}
+.searchbar{
+  /* search bar */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 18px;
+
+position: static;
+width: 571px;
+height: 42px;
+left: 444px;
+top: 10px;
+
+/* black */
+
+background: #131415;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 269px;
+}
+.searchtxt{
+  /* Search */
+
+
+position: static;
+width: 509px;
+height: 18px;
+left: 44px;
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* white50% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+margin: 0px 8px;
+}
+.searchsymbol{
+  /* search */
+
+
+position: static;
+width: 18px;
+height: 28px;
+left: 18px;
+top: 12px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.searchIcon{
+  /* Union */
+
+
+position: absolute;
+width: 13.28px;
+height: 13.28px;
+left: 2.25px;
+top: 2.25px;
+
+/* white50% */
+
+background: rgba(255, 255, 255, 0.5);
+}
